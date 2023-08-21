@@ -1,7 +1,7 @@
 Package: mdlCpOaMdUI
 Type: Package
 Title: Demo ui package for module in DMS.
-Version: 1.1.0
+Version: 1.2.5
 Author: hulilei
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
@@ -11,7 +11,4 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
 Collate: 
-    'demo.R'
-    'button.R'
-    'text.R'
-    'date.R'
+    'md.R'
